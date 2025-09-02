@@ -17,7 +17,7 @@ Proyek ini bertujuan untuk:
 - NLP (Sentiment Analysis)
 
 ## 📊 Dashboard
-[Klik di sini untuk membuka dashboard](https://link-streamlit-kamu.com)
+[Klik di sini untuk membuka dashboard](https://app-sgdsentimentnewww-x2r3xwnguulwzwxxxhwjef.streamlit.app/)
 
 ## 📂 Project Structure
 project/
